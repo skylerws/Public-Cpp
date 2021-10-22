@@ -1,2 +1,2 @@
 # Public-Cpp
-Contains Public C++ Code. Most C++ assignments were licensed and copyrighted.
+Contains Public C++ Code. The majority of C++ assignments were licensed and copyrighted.
